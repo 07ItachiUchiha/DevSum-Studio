@@ -6,20 +6,20 @@ const works = [
   {
     background: "bg-gray-200",
     imageUrl: "/images/business.webp",
-    title: "Rubbish Brothers",
-    link: "https://www.rubbishbrothers.com",
+    title: "Bhavya Sangh",
+    link: "https://bhavyasangh.com/",
   },
   {
     background: "bg-gray-200",
-    imageUrl: "/images/business.webp",
-    title: "Atlas Massage",
-    link: "https://www.atlasmassage.ca",
+    imageUrl: "/images/business1.webp",
+    title: "Bahujan Vyapar",
+    link: "https://bahujanvyapar.com/",
   },
   {
     background: "bg-gray-200",
-    imageUrl: "/images/business.webp",
-    title: "Canadian Security Solutions",
-    link: "https://www.canadiansecuritysolutions.com",
+    imageUrl: "/images/business2.webp",
+    title: "Custom portfolio Sample",
+    link: "https://amazing-llama-da694e.netlify.app/",
   },
   {
     background: "bg-gray-200",
